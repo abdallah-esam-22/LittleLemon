@@ -72,6 +72,7 @@ TEMPLATES = [
 ]
 
 WSGI_APPLICATION = 'littlelemon.wsgi.application'
+TEST_RUNNER = 'django.test.runner.DiscoverRunner'
 
 
 # Database
