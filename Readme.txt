@@ -1,3 +1,9 @@
+to run the virtual environment:
+    cd workspace
+    Scripts\activate
+
+
+
 Restaurant home page:
 http://127.0.0.1:8000/restaurant/
 
